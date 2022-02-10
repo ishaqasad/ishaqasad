@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @ishaqasad
-- 👀 I’m interested in automation and implememting machine learning algorithms
-- 🌱 I’m currently learning at the University of Toronto
-
+An implementation of seam-carving in C. Utilzed to intelligentally resize images, by reducing areas of high energy.
 
