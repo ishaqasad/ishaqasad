@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ishaqasad
-- 👀 I’m interested in automation and implememting machine learning algorithms
-- 🌱 I’m currently learning at the University of Toronto
-
-
+An implementation of an autocomplete program written in C. The program ranks possible completed words based on their lexographic simmilarity. 
