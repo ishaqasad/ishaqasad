@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @ishaqasad
-- 👀 I’m interested in automation and implememting machine learning algorithms
-- 🌱 I’m currently learning at the University of Toronto
-
+A python implementation to answer TOEFL synonym questions by comparing the use of words in large sample texts. 
 
