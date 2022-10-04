@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning at the University of Toronto
 
 Projects:
+
   Seam-carving
+
   Auto-complete
+  
   Synonyms
