@@ -9,3 +9,6 @@ Projects:
   Auto-complete
   
   Synonyms
+  
+  Machine Learning Methods:
+  kmeans 
