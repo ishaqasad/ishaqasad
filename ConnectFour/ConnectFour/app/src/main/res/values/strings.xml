@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConnectFour</string>
+    <string name="connect_four_Title">Connect Four</string>
+    <string name="connect_four_Start">START</string>
+    <string name="connect_four_Player1">Player One\'s Turn</string>
+    <string name="connect_four_Player2">Player Two\'s Turn</string>
+    <string name="connect_four_Timer">Time Left :</string>
+    <string name="connect_four_Player1W">Player One WIns</string>
+    <string name="connect_four_Player2W">Player Two Wins</string>
+    <string name="connect_four_reset">RESTART</string>
+    <string name="connect_four_Tie">IT\'S A TIE</string>
+</resources>
