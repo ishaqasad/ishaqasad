@@ -1,1 +1,1 @@
-Connect Four developed for Andorid devices in Android Studio
+Connect Four developed for Andorid devices with JAVA in Android Studio
