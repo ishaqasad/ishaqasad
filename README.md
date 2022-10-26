@@ -4,17 +4,12 @@
 
 Projects:
 
-  Connect Four
-  
-  Seam-carving
-
-  Auto-complete
-  
-  Synonyms
-  
-  Tic Tac Toe
-  
-  Hangman 
-  
-  Machine Learning Methods:
+- Connect Four 
+- Seam-carving
+- Auto-complete
+- Synonyms
+- Tic Tac Toe
+- Hangman 
+- Maze Solver and Generator
+- Machine Learning Methods:
   kmeans 
