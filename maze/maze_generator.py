@@ -1,7 +1,7 @@
 import random
 
 class Cell:
-    def __init__ (self,index_i , index_j,north = None, east = None , south = None, west = None):
+    def __init__ (self,index_i , index_j,north = None, east = None , south = None, west = None, c= 100000000):
         self.north = north
         self.east = east
         self.south = south
@@ -11,6 +11,7 @@ class Cell:
         self.is_visited = False
         self.is_start = False
         self.is_end = False
+        self.c = c
     def add_neighbour(self,cell, direction):
         if(direction == 0):
             self.north = cell
@@ -48,6 +49,10 @@ class Cell:
         self.is_start = True
     def set_end(self):
         self.is_end = True
+    def __lt__(self,other):
+        return self.c <= other.c
+    def __gt__(self,other):
+        return self.c > other.c
 class Maze:
     def __init__ (self, height, width):
         self.height = height
@@ -119,6 +124,10 @@ class Maze:
         for row in self.cells:
             for cell in row:
                 cell.reset_visit()
+    def set_start(self, i,j):
+        self.start.is_start = False
+        self.cells[i][j].set_start()
+        self.start = self.cells[i][j]
 if __name__ == '__main__':
     m = Maze(10,10)
     m.build_maze()
