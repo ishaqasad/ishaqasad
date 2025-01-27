@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ishaqasad
-- 👀 I’m interested in automation and implememting machine learning algorithms
+- 👀 I’m interested in automation, robotics and machine learning.
 - 🌱 I’m currently learning at the University of Toronto
 
 Projects:
-
+- Piano Partner GAN
 - Connect Four 
 - Seam-carving
 - Auto-complete
@@ -11,5 +11,4 @@ Projects:
 - Tic Tac Toe
 - Hangman 
 - Maze Solver and Generator
-- Machine Learning Methods:
-  kmeans 
+- Machine Learning Methods
