@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning at the University of Toronto
 
 Projects:
-- Piano Partner GAN
 - Connect Four 
 - Seam-carving
 - Auto-complete
